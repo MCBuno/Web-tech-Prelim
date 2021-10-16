@@ -1,0 +1,74 @@
+.buno{
+    color: red;    
+}
+.Home{
+    color:#980000;    
+}
+.Home a {
+    color:#980000;
+    text-decoration: none;
+}
+.thank{
+    color: #980000;
+}
+.image{
+    color:red;
+}
+.name{
+    color:red;
+}
+.age{
+    color:#0000FF;
+}
+.favoritecolr {
+    color:#38761D;
+}
+.favoritefood {
+    color:#FF9900;
+}
+.juan {
+    color:black;
+}
+.twenty {
+    color:#24505C;
+}
+.redc{
+    color:red;
+}
+.greenc{
+    color:#38761D;
+}
+.food{
+    color: #24505C;
+}
+.pink{
+    color: #FF00FF;
+}
+.greenl{
+    color: #6AA84F;
+}
+.yellowl{
+    color:#FFFF00;
+}
+.brownl{
+    color: #85200C;
+}
+.orangel{
+    color: #CC4125;
+}
+.related{
+    color:#24505C;
+}
+.town{
+    color: #2E75B5;
+}
+table, td, th{
+    border:1px solid black; 
+}
+table{
+    width:50%;
+    border-collapse: collapse;
+}
+.cars{
+    color: #980000;
+}
